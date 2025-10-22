@@ -1,4 +1,25 @@
 body{
-    color:beige;
-    background-color: antiquewhite;
+    color:rgb(250, 250, 7);
+    background-color: rgb(231, 174, 100);
+    margin:0px;
+}
+
+header{
+     border-bottom:solid 2px;
+     padding: 20px;
+     font-size: 32px;
+     color: aquamarine;
+
+}
+
+section{
+    background-color: azure;
+    padding-top:80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
 }
